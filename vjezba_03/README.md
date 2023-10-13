@@ -1,7 +1,5 @@
 # Vježba 3 - Pokazivači i reference, prijenos argumenata
 
-[<< Vrati me na početnu stranicu!](../README.md)
-
 ## **1. Pokazivači i Reference**
 
 ### **1.1 Pokazivači:**
