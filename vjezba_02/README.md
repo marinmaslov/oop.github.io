@@ -58,6 +58,9 @@
       string ime = "Programiranje";
       cout << "Ime: " << ime << endl;
       cout << "Duljina stringa: " << ime.length() << endl;
+      // Pristup znaku na određenom indeksu
+      char characterAtIndex = str[7]; // indeksiranje počinje od 0
+      cout << "Znak na indeksu 7: " << characterAtIndex << endl;
       return 0;
   }
   ```
